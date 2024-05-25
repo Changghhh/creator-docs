@@ -1,6 +1,8 @@
 ---
-title: Script Editor
-description: Roblox's built-in, fully-featured script editor includes modern conveniences like autocomplete, code highlighting, and multi-cursor editing.
+title: zombie apocalypse
+
+description: how fun experiencing a zombie apocalypse 
+
 ---
 
 The **Script Editor** in Studio is the primary tool for scripting on Roblox. It's a self-improving environment that can help you write high-impact code, shorten your development time, and iterate on your experiences. It can improve your scripting experience by:
